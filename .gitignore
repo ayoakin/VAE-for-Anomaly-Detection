@@ -34,5 +34,5 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Executed notebooks (keep templates only)
-*-executed.ipynb
+# Jupyter checkpoints only
+.ipynb_checkpoints/
